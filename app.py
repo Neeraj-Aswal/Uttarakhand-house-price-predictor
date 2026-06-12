@@ -67,7 +67,7 @@ with st.sidebar:
     st.title("📊 Model Information")
 
     st.metric("R² Score", "94.13%")
-    st.metric("MAE", "14.28 Lakh")
+    st.metric("Average Prediction Error", "±12.49%")
 
     st.markdown("---")
 
